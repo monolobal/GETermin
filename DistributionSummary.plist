@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RK-Termin.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>688114220B32464850F050A1E0DFC78A46EE63E5</string>
+				<key>dateExpires</key>
+				<string>2024/12/20</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>E9Q2N776HW.monolobal.rktermin</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>E9Q2N776HW</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>RK-Termin.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f8ac03b7-8f2c-40c9-a402-93624153e2a8</string>
+				<key>dateExpires</key>
+				<string>2024/12/20</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: monolobal.rktermin</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>E9Q2N776HW</string>
+				<key>name</key>
+				<string>ZICONG ZHOU</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
